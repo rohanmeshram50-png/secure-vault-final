@@ -1,0 +1,7 @@
+
+> secure-vault-backend@1.0.0 start
+> node src/server.js
+
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+Server running on port 3000
+MySQL Connected...
